@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm an a PhD candidate in applied math at Northwestern University. I work with [David Chopp](http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chopp-david.html) on problems in scientific computing, simulations, and high performance computing as they related to biofilm, communties of immobile bacteria that live on surfaces.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Problems I find interesting include modeling, building simulations, parallel computing, uncertainty quantification, and data assimilation. I like problems that are at the interface of mechanistic and data-driven modeling. I believe in performing research that adresses real and specific problems. I love learning about various subject matter, and I have enjoyed learning about microbiology and microecology from incredibly smart people.
