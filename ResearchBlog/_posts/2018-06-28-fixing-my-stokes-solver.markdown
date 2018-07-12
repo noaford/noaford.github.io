@@ -9,7 +9,7 @@ A year ago, I wrote a Stokes-flow solver that runs on a GPU. It worked great for
 
 Well now it works! The included image is of flow around a semicircle, particularly the x-directional velocity. It now runs super fast (flow for a 200 by 200 grid solved in a minute or less), maybe even faster than I remember it running. I can now finish running some tests I need for a manuscript I'm writing. I'm doing an even faster model for flow through a biofilm!
 
-![fluidU]({{"../assets/fluidUplot.jpg" | absolute_url}})
+![fluidU]({{"/assets/fluidUplot.jpg" | absolute_url}})
 
 
 

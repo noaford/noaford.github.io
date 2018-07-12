@@ -10,5 +10,5 @@ $$\frac{dh}{dt} = F\sqrt{1+\frac{dh}{dx}}$$
 
 This gives us a functional representation for growth. Below is a plot for growth and a plot for the change in growth with this change to the equation. The height of the channel is 0.6 mm, and the height of the biofilm is .005 mm on average with sinusoidal surface with amplitude .0025 mm. We see that the growth is the same at the top and bottom of the sine shape, but at the steepest part of the surface, the adjusted growth is higher. Still this difference has only a small effect on the growth calculations (though for larger amplitudes the effects would be large).
 
-![GrowthofBiofilm]({{"../assets/GrowthofBiofilm.jpg" | absolute_url}})
-![DiffinGrowth]({{"../assets/DiffinGrowth.jpg" | absolute_url}})
+![GrowthofBiofilm]({{"/assets/GrowthofBiofilm.jpg" | absolute_url}})
+![DiffinGrowth]({{"/assets/DiffinGrowth.jpg" | absolute_url}})
