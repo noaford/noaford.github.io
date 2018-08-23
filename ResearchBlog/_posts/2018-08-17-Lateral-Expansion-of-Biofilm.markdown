@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lateral Expansion of Biofilm"
-date: 2018-08-04
+date: 2018-08-17
 categories: Research
 ---
 
