@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Dimesnional Biofilm Model"
+title: "Potassium Effects in Biofilm Model"
 date: 2019-10-25
 categories: Research
 ---
