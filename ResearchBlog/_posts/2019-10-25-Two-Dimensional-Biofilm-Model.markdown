@@ -9,6 +9,6 @@ I have been working to create a two-dimensional model for the oscillatory Bacill
 
 The most important change in the model is that cells react and depolarize in response to changes in potassium instead of absolute potassium levels as shown in the figure below. Experiments show a potassium gradient from the middle to the edge of the biofilm, but the voltage change can propagate all the way to the edge of the biofilm. Change in potassium is a better representation of cellular stress since bacteria are able to adjust internal potassium levels to return to their preferred voltage differential over time. This propagation method is much more efficient in terms of transmitting the potassium signal.
 
-I will show more of the effects of this change in following posts
+I will show more of the effects of this change in following posts.
 
 ![PricePred]({{"/assets/PotassiumChangeDepiction.jpg" | absolute_url}})
