@@ -13,5 +13,5 @@ Looking back on this paper, I think the main contribution is the paper's proposa
 
 This delay allows the biofilm to create oscillations, which may not occur if the biofilm acclimates instantaneously to its environment. Instantaneous acclimation, I believe, would more likely lead to a non-oscillatory steady state.
 
-![Potassium]({{"/assets/Potassium-12-29-24.jpg" | absolute_url}})
-![Voltage]({{"/assets/Voltage-12-29-24.jpg" | absolute_url}})
+![Potassium]({{"/assets/Potassium-12-29-24.png" | absolute_url}})
+![Voltage]({{"/assets/Voltage-12-29-24.png" | absolute_url}})
